@@ -1,6 +1,6 @@
 - 👋 Hi, I’m harper 
-- 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning python and sql 
+- 👀 I’m passionate about data analytics 
+- 🌱 I’m on my journey learning python and sql 
 - 💞️ I’m looking to collaborate on machine learning projects 🧩 
 - 📫 How to reach me -- email me at harperyang1@outlook.com  📨📮
 
